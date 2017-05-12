@@ -1,4 +1,4 @@
 module.exports = {
-    //AddonHelloModule: require('./lib/hello.node'),
+    AddonHelloModule: require('./lib/hello.node'),
 	HelloAddon: "hello module"
 }
