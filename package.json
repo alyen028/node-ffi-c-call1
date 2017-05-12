@@ -1,0 +1,14 @@
+{
+  "name": "node-ffi-c-call1",
+  "version": "1.0.0",
+  "description": "a plugin for node with c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "keywords": [
+    "ffi"
+  ],
+  "author": "linxinjian",
+  "license": "ISC"
+}
